@@ -1,0 +1,7 @@
+<?php
+
+$con=new mysqli('sql206.infinityfree.com','if0_34969580','c1VhXYqDYB7H','if0_34969580_chatting');
+if(!$con){
+die(mysqli_error($con));
+}
+?>

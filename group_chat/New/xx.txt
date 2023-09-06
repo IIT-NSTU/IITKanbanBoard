@@ -1,0 +1,3 @@
+MySQL DB Name	MySQL User Name	MySQL Password	MySQL Host Name	PHPMyAdmin
+if0_34969580_chatting	if0_34969580	(Your vPanel Password)	sql206.infinityfree.com	
+groupmessage.infinityfreeapp.com
